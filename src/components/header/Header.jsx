@@ -3,7 +3,13 @@ import './header.css'
 
 const Header = () => {
   return (
-    <div>Header</div>
+   <header>
+     <div className="container header_container">
+       <h5>Hello I Am</h5>
+       <h1>Josue</h1>
+       <h5 className="text-light">Fullstack Dev</h5>
+     </div>
+   </header>
   )
 }
 
