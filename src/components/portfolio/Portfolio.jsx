@@ -8,7 +8,7 @@ const Portfolio = () => {
   return (
     <section id='portfolio'>
       <h2> Recent Works </h2>
-      <div className='conatiner portfolio_container'>
+      <div className='container portfolio_container'>
         <article className='portfolio_item'>
           <div className='portfolio_item-image'>
             <img src= {project1} alt=''></img>
