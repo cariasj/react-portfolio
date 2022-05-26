@@ -12,11 +12,11 @@
 }
 
 :root {
-    --color-bg: rgb(103, 76, 116);
+    --color-bg: rgb(255, 255, 255);
     --color-bg-variant: blue;
-    --color-primary: gray;
+    --color-primary: rgb(21, 34, 146);
     --color-primary-variant: rgb(0, 128, 43);
-    --color-white: white;
+    --color-white: rgb(0, 0, 0);
     --color-light: rgba(255, 255, 255, 0.6);
 
     --transition: all 400ms ease;
@@ -55,6 +55,7 @@ h1 {
 
 section {
     margin-top: 8rem;
+    
 }
 
 section > h2, section > h5 {

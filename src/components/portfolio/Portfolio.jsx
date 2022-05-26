@@ -1,9 +1,15 @@
 import React from 'react'
 import './portfolio.css'
+import project1 from '../../assets/project1.png'
 
 const Portfolio = () => {
   return (
-    <div>Portfolio</div>
+    <section id='portfolio'>
+
+
+		</section>
+					
+		
   )
 }
 
